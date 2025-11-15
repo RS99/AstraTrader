@@ -106,7 +106,17 @@ Persistent storage for:
 
 Below is the live session showing trader panels, portfolio candles, and logs:
 
-![AstraTrader Live Session](screenshots/live-session.png)
+### 🔥 Live Session View
+![Live Session](screenshots/Screenshot%202025-11-15%20102350.png)
+
+### 📊 Portfolio Candlestick Chart
+![Portfolio Candles](screenshots/Screenshot%202025-11-15%20105503.png)
+
+### 📈 Stock OHLCV Chart
+![Stock Chart](screenshots/Screenshot%202025-11-15%20105517.png)
+
+### 📝 Real-Time Logs View
+![Logs](screenshots/Screenshot%202025-11-15%20105527.png)
 
 Each panel shows:
 - Portfolio value  
