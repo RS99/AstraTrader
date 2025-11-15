@@ -104,19 +104,27 @@ Persistent storage for:
 
 ## 📸 Live Interface Screenshot
 
-Below is the live session showing trader panels, portfolio candles, and logs:
+Below is the live session:
+
 
 ### 🔥 Live Session View
 ![Live Session](screenshots/Screenshot%202025-11-15%20102350.png)
 
-### 📊 Portfolio Candlestick Chart
-![Portfolio Candles](screenshots/Screenshot%202025-11-15%20105503.png)
+---
 
-### 📈 Stock OHLCV Chart
-![Stock Chart](screenshots/Screenshot%202025-11-15%20105517.png)
+### 📊 Portfolio Overview & Candlestick Chart
+![Portfolio Chart](screenshots/Screenshot%202025-11-15%20105503.png)
 
-### 📝 Real-Time Logs View
-![Logs](screenshots/Screenshot%202025-11-15%20105527.png)
+---
+
+### 📝 Live Logs, Holdings & Recent Transactions
+![Logs View](screenshots/Screenshot%202025-11-15%20105527.png)
+
+---
+
+### 🕯️ Trader Portfolio OHLCV Chart (Cathie Example)
+![Cathie Portfolio Chart](screenshots/Screenshot%202025-11-15%20105517.png)
+
 
 Each panel shows:
 - Portfolio value  
