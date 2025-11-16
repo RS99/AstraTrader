@@ -1,10 +1,10 @@
-# 🔥 AstraTrader  
+#  AstraTrader  
 ### **Autonomous Multi-Agent AI Trading Platform for the Indian Stock Market (NSE)**  
 A next-generation agentic AI system featuring autonomous traders, research tools, MCP servers, portfolio analytics, real-time market data, and TradingView-style visualizations.
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 **AstraTrader** is a fully autonomous, multi-agent AI trading ecosystem designed for the **Indian stock market (NSE)**.  
 It orchestrates multiple AI traders, each with unique investment personalities, executes trades through MCP tools, creates portfolio snapshots, and displays advanced candlestick charts in a rich Gradio dashboard.
@@ -22,9 +22,9 @@ This project demonstrates:
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 🤖 **1. Autonomous Multi-Agent Traders**
+###  **1. Autonomous Multi-Agent Traders**
 Four AI traders operate independently with distinct personalities:
 
 | Trader | Model | Style |
@@ -44,7 +44,7 @@ Each trader:
 
 ---
 
-### 📈 **2. TradingView-Style OHLCV Charts**
+###  **2. TradingView-Style OHLCV Charts**
 
 - Beautiful candlestick charts  
 - Volume bars with sentiment color  
@@ -55,7 +55,7 @@ Each trader:
 
 ---
 
-### 🧠 **3. Research Agent (NSE-Safe)**
+###  **3. Research Agent (NSE-Safe)**
 
 A dedicated research agent that:
 - Validates stock symbols  
@@ -65,7 +65,7 @@ A dedicated research agent that:
 
 ---
 
-### 🔌 **4. MCP Tool Ecosystem**
+###  **4. MCP Tool Ecosystem**
 
 | MCP Server | Purpose |
 |------------|---------|
@@ -77,7 +77,7 @@ Agents interact with these tools using natural language & structured input.
 
 ---
 
-### 💾 **5. SQLite Persistence Layer**
+###  **5. SQLite Persistence Layer**
 
 Persistent storage for:
 - Accounts  
@@ -89,7 +89,7 @@ Persistent storage for:
 
 ---
 
-### 🖥️ **6. Rich Gradio Dashboard**
+###  **6. Rich Gradio Dashboard**
 
 - Live session for all traders  
 - Dynamic PNL panels  
@@ -102,27 +102,27 @@ Persistent storage for:
 
 ---
 
-## 📸 Live Interface Screenshot
+##  Live Interface Screenshot
 
 Below is the live session:
 
 
-### 🔥 Live Session View
+###  Live Session View
 ![Live Session](screenshots/Screenshot%202025-11-15%20102350.png)
 
 ---
 
-### 📊 Portfolio Overview & Candlestick Chart
+###  Portfolio Overview & Candlestick Chart
 ![Portfolio Chart](screenshots/Screenshot%202025-11-15%20105503.png)
 
 ---
 
-### 📝 Live Logs, Holdings & Recent Transactions
+###  Live Logs, Holdings & Recent Transactions
 ![Logs View](screenshots/Screenshot%202025-11-15%20105527.png)
 
 ---
 
-### 🕯️ Trader Portfolio OHLCV Chart (Cathie Example)
+###  Trader Portfolio OHLCV Chart (Cathie Example)
 ![Cathie Portfolio Chart](screenshots/Screenshot%202025-11-15%20105517.png)
 
 
@@ -135,7 +135,7 @@ Each panel shows:
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 AstraTrader follows a modular, event-driven, multi-agent architecture built on MCP servers, LLM agents, and a persistent data layer.
 
